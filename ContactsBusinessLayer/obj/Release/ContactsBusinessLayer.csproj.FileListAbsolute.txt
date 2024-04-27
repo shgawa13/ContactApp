@@ -1,0 +1,9 @@
+C:\Users\hgolh\Desktop\Cars Databas\ContactsBusinessLayer\bin\Release\ContactsBusinessLayer.dll
+C:\Users\hgolh\Desktop\Cars Databas\ContactsBusinessLayer\bin\Release\ContactsBusinessLayer.pdb
+C:\Users\hgolh\Desktop\Cars Databas\ContactsBusinessLayer\bin\Release\ContactsDataAccessLayer.dll
+C:\Users\hgolh\Desktop\Cars Databas\ContactsBusinessLayer\bin\Release\ContactsDataAccessLayer.pdb
+C:\Users\hgolh\Desktop\Cars Databas\ContactsBusinessLayer\obj\Release\ContactsBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\hgolh\Desktop\Cars Databas\ContactsBusinessLayer\obj\Release\ContactsBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hgolh\Desktop\Cars Databas\ContactsBusinessLayer\obj\Release\Contacts.DFB66D76.Up2Date
+C:\Users\hgolh\Desktop\Cars Databas\ContactsBusinessLayer\obj\Release\ContactsBusinessLayer.dll
+C:\Users\hgolh\Desktop\Cars Databas\ContactsBusinessLayer\obj\Release\ContactsBusinessLayer.pdb

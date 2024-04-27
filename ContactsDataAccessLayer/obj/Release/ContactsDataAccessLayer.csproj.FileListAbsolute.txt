@@ -1,0 +1,6 @@
+C:\Users\hgolh\Desktop\Cars Databas\ContactsDataAccessLayer\bin\Release\ContactsDataAccessLayer.dll
+C:\Users\hgolh\Desktop\Cars Databas\ContactsDataAccessLayer\bin\Release\ContactsDataAccessLayer.pdb
+C:\Users\hgolh\Desktop\Cars Databas\ContactsDataAccessLayer\obj\Release\ContactsDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\hgolh\Desktop\Cars Databas\ContactsDataAccessLayer\obj\Release\ContactsDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hgolh\Desktop\Cars Databas\ContactsDataAccessLayer\obj\Release\ContactsDataAccessLayer.dll
+C:\Users\hgolh\Desktop\Cars Databas\ContactsDataAccessLayer\obj\Release\ContactsDataAccessLayer.pdb
